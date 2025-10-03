@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+button{
+ background-color: #cabe9f;
+}
+ 
+.Image
+{
+  width: 100%;
+  padding: 0 7%;
+  margin: 0;
+  max-width: none;
+  background-color: #373B44;
+  height: 100vh;
+    background-image:url("/DJT.jpg");
+    background-repeat:no-repeat;
+  background-size:cover;
+
+}
+
+.hero {
+  width: 100%;
+  padding: 0 7%;
+  margin: 0;
+  max-width: none;
+  background-color: #373B44;
+  height: 50vh;
+    background-image:url("/DJT.jpg");
+    background-repeat:no-repeat;
+  background-size:cover;
+
+}
+
+.text
+{
+  color:#cabe9f;
+}
+
+.html
+{
+  @apply overflow-x-hidden;
+}
