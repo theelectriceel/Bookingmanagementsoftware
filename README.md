@@ -8,14 +8,14 @@ A simple booking system that allows clients to submit booking forms while provid
 - Clients can submit booking forms  
 - Admin panel to view, approve, or reject applications  
 - Manage and update booking listings  
-- Clean, responsive interface built with vanilla JavaScript  
+- Clean, responsive interface built with Next.js 
 - Lightweight and easy to deploy  
 
 ---
 
 ##  Tech Stack
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend/Server**: Node.js (basic server + routing)  
+- **Frontend**: Next.Js  
+- **Backend/Server**: Node.js  / Firebase Cloud functions (basic server + routing)  
 - **Data Handling**: File-based or lightweight DB (JSON / SQLite)  
 
 ---
