@@ -16,7 +16,7 @@ A simple booking system that allows clients to submit booking forms while provid
 ##  Tech Stack
 - **Frontend**: Next.Js  
 - **Backend/Server**: Node.js  / Firebase Cloud functions (basic server + routing)  
-- **Data Handling**: File-based or lightweight DB (JSON / SQLite)  
+- **Data Base**: Firebase firestore/ firebase storage 
 
 ---
 
